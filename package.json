@@ -1,0 +1,36 @@
+{
+  "name": "mobuys01",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "react-native-fs": "^2.13.3",
+    "react-native-imei": "^0.2.0",
+    "react-native-modal-datetime-picker": "^7.4.2",
+    "react-native-popup-dialog": "^0.18.2",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-table-component": "^1.2.0",
+    "react-number-format": "^4.0.8",
+    "realm": "^2.26.1",
+    "xlsx": "^0.14.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
