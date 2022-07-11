@@ -7,9 +7,9 @@ const s_forms = StyleSheet.create({
         alignItems: 'center'
     },
     text_input: {
-        marginBottom:10,
+        marginBottom: 10,
         height:45,
-        color:'#536c79',
+        color:'#536c73',
     },
     icon_text:{
         backgroundColor: '#f0f3f5',
